@@ -10,6 +10,6 @@ public class Island2 {
 
     @Override
     public String toString() {
-        return ", на острове дерево 2" + wood.toString();
+        return ", на острове дерево " + wood.toString();
     }
 }
